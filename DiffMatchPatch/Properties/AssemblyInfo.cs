@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("DiffMatchPatch")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A .NET PCL ported version of Neil Fraser's & Matthaeus G. Chajdas' DiffMatchPatch.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DiffMatchPatch")]
-[assembly: AssemblyCopyright("版权所有(C)  2016")]
+[assembly: AssemblyCopyright("DiffMatchPatch Original Source: Copyright 2008 Google Inc. All Rights Reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("zh-Hans")]
